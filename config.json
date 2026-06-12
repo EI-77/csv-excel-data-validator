@@ -1,0 +1,34 @@
+{
+  "required_columns": [
+    "company_name",
+    "email",
+    "url"
+  ],
+  "empty_check_columns": [
+    "company_name",
+    "email",
+    "url"
+  ],
+  "duplicate_check_columns": [
+    "company_name",
+    "url"
+  ],
+  "email_columns": [
+    "email"
+  ],
+  "url_columns": [
+    "url",
+    "website"
+  ],
+  "numeric_columns": [
+    "price",
+    "amount",
+    "count",
+    "quantity"
+  ],
+  "check_empty_cells": true,
+  "check_duplicate_rows": true,
+  "check_email_format": true,
+  "check_url_format": true,
+  "check_numeric_format": true
+}

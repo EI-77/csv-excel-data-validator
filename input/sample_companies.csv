@@ -1,0 +1,11 @@
+﻿company_name,email,url,website,price,amount,count,quantity
+ABC株式会社,info@abc.co.jp,https://www.abc.co.jp,https://abc.co.jp,10000,50000,10,3
+XYZ株式会社,contact@xyz.jp,https://www.xyz.jp,https://xyz.jp,25000,120000,5,8
+サンプル商事,wrong-email,https://www.sample.co.jp,https://sample.co.jp,15000,70000,7,2
+テスト工業,support@test.co.jp,www.test.co.jp,https://test.co.jp,30000,90000,12,4
+,info@blank.co.jp,https://www.blank.co.jp,https://blank.co.jp,18000,60000,6,1
+メール欠損株式会社,,https://www.noemail.co.jp,https://noemail.co.jp,22000,80000,9,5
+URL欠損株式会社,info@nourl.co.jp,,https://nourl.co.jp,12000,40000,4,2
+数値不正株式会社,info@invalid-number.co.jp,https://www.invalid-number.co.jp,https://invalid-number.co.jp,abc,50000,10,3
+数量不正株式会社,info@invalid-quantity.co.jp,https://www.invalid-quantity.co.jp,https://invalid-quantity.co.jp,14000,unknown,ten,three
+ABC株式会社,info@abc.co.jp,https://www.abc.co.jp,https://abc.co.jp,10000,50000,10,3
